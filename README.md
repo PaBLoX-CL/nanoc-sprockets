@@ -1,3 +1,10 @@
+[![Build Status](https://travis-ci.org/PaBLoX-CL/nanoc-sprockets.png)](https://travis-ci.org/PaBLoX-CL/nanoc-sprockets)
+[![Coverage Status](https://coveralls.io/repos/PaBLoX-CL/nanoc-sprockets/badge.png?branch=master)](https://coveralls.io/r/PaBLoX-CL/nanoc-sprockets)
+
+# WARNING
+
+In process of rewriting!
+
 # Nanoc::Sprockets::Filter
 
 A nanoc filter to use [Sprockets][sprockets], a Ruby library for compiling and serving web assets.
